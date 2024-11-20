@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @archer-jay
-- 👀 I’m interested in CSS!
-- 🌱 I’m currently learning how to use vscode/github
+- 👀 I’m interested in CSS and GDScript!
+- 🌱 I’m currently learning godot for personal use
 - 💞️ I’m looking to collaborate on nothing! leave me be!
 
 <!---
